@@ -1,0 +1,1 @@
+db.users.deleteOne({ _id: ObjectId("62c0957402d55365f6a8b739") });
