@@ -1,0 +1,1 @@
+db.employees.dropIndex("age_1");

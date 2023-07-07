@@ -1,0 +1,1 @@
+db.employees.createIndex({ age: 1 });
