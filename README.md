@@ -9,6 +9,7 @@ Fundamentals of the MongoDB database. Repository with examples and basic exercis
 * [Copias de seguridad](https://medium.com/@diego.coder/herramientas-y-utilidades-en-mongo-db-dump-import-export-bb66d0acd098)
 * [Agregaciones y tuberías](https://medium.com/@diego.coder/agregaciones-y-tuber%C3%ADas-en-mongo-db-aggregation-operations-67adb83080d0)
 * [Relaciones](https://medium.com/@diego.coder/relaciones-en-mongodb-edf2107a94ad)
+* [Índices](https://medium.com/@diego.coder/%C3%ADndices-en-mongodb-d5eb8cb37aa3)
 
 ## Team
 
